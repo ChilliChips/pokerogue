@@ -1,2 +1,2 @@
-cd \Program Files\PokeRogue\pokerogue-main
+cd \Program Files\PokeRogue\pokerogue
 call npm run start:dev
