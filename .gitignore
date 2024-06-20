@@ -37,3 +37,5 @@ src/overrides.ts
 
 coverage
 /typedoc
+*.bat
+PokeRogue.bat
